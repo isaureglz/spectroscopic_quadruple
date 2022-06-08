@@ -1,1 +1,3 @@
 # spectroscopic_quadruple
+
+This Python script was produced in the context of the METEOR (Modules Experiment-ThEOry-Research) "Quaruples in spectroscopic surveys" of the MAUCA (Master track in Astrophysics in Université Côte d'Azur). The goal was to determine the orbit of three spectroscopic quadruple star candidates using the radial velocity method. This script is only one the many scripts used to determine the orbital solutions: in particular, it extracts information of interest in order to compare the HRS/SALT observational data with the orbital solution found using the method of simulated annealing in another script. Visualizing the data helps re-adjust the identification of each component (star) in each quadruple system. 
